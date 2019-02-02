@@ -1,6 +1,11 @@
 # FlashpointStockPhotos
 
-These are a select set of images to be called in group conversations for HBS' BATTLETECH game. The aim is to provide general use images for Flashpoint authors in one repository. This will cut down on duplicated imagery and keep the memory footprint reasonable. Images will be in .dds format for lower GPU load.
+These are a select set of images to be called in group conversations for HBS' BATTLETECH game. The aim is to provide general use images for Flashpoint authors in one repository. This will cut down on duplicated imagery and keep the memory footprint reasonable. Images will be in .dds format for lower GPU load. 
+
+### Holoscreen Image Guidelines
+
+The Holoscreen .dds files need to be inverted horizontally and flipped vertically to display correctly. A .png file needs to be inverted horizontally only. The files in the base game are either 2048x2048 or 512x512 pixels across, I believe as long as your file is square and either .png or .dds it will load correctly. A file not found will display a blank image and generate an error in the log.
+
 
 This mod is to be used with ConverseTek, files would be referenced in the action to set a viewscreen image.
 
