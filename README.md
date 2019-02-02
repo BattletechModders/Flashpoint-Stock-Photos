@@ -27,7 +27,11 @@ spheremap - A map of the Inner Sphere for greater context
 
 If you are making a custom conversation and need to use your own images, copy this mod's mod.json manifest entry in to your own mod.json and name the path as appropriate. This will let the game know you want to add files to the conversation textures addendum.
 
-### ModTek/BTML
+### Instructions:
+
+    Copy Flashpoint-Stock-Images folder in to Mods folder created for ModTek.
+    
+### ModTek
 This mod needs ModTek to work:
 
 https://github.com/BattletechModders/ModTek/releases
