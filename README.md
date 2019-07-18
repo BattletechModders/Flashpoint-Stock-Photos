@@ -3,7 +3,7 @@ These are a select set of images to be called in group conversations for HBS' BA
 
 Feel free to use this mod in your custom Flashpoints.  I only ask for credit and a link to this repo's release page to be included. I'd recommend setting this as a dependancy your mod would need to load.  This ensures users must install this back before your mod will work.
 
-####  Flashpoint Stock Photos is already included in the Community Asset Bundle (CAB) and does not need to be installed seperately if you already use the CAB.
+####  Flashpoint Stock Photos is already included in the Community Asset Bundle (CAB) and does not need to be installed separately if you already use the CAB.
 
 ### Holoscreen Image Guidelines
 The Holoscreen .dds files need to be inverted horizontally and flipped vertically to display correctly. A .png file needs to be inverted horizontally only. The files in the base game are either 2048x2048 or 512x512 pixels across, I believe as long as your file is square and either .png or .dds it will load correctly. A file not found will display a blank image and generate an error in the log.
