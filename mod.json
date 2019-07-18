@@ -7,8 +7,13 @@
     "Author": "amechwarrior",
 
     "DependsOn": [],
-    "ConflictsWith": [],
-    "OptionallyDependsOn": [ ],
+    "ConflictsWith": [
+	    
+        "CommunityBundles"
+	    
+    ]
+    "OptionallyDependsOn": [],
+    "IgnoreLoadFailure": true,
 
     "Manifest": [  
 	
